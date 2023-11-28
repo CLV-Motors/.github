@@ -23,7 +23,7 @@
 <p align="justify"> 
   Color palette used in the project:
 </p>
-
+//
 <img align="justify" width="500" src="CLVMotors_Paleta.png">
 
 ler e reproduzir aqui
