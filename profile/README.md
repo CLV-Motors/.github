@@ -1,20 +1,26 @@
 
-<h1 align="justify">
-  CLV Motors 
+<h1 align="center">
+  CLV Motors - New and used car sales website 🚗🏎️
 </h1>
 
-<p align="justify"> 
-  This is a project where we are learning how use PHP language 
+<p align="center">
+   When we started this journey, we noticed a gap in the automotive sales market. There was a lack of platforms that offered a complete, intuitive and reliable experience for car lovers. So we decided to create something unique, something that didn't just sell vehicles, but was a space for car lovers to connect, explore and discover their next machine on wheels.
+</br>Our team is constantly working to improve the site's interface, making it more user-friendly and informative. We want our users to find not just a car, but all the information they need to make the best possible decision.
 </p>
-<h4 align="justify"> 
-  🚧  Project 🚀 in progress...  🚧
-<h4></h4>
 
+  <p align="center">
+This is a project where we are learning how use PHP language, however, we have built a site based on HTML and embellished it with CSS for a better user experience (UX).
+  </p>
+
+  </br>
+  
 <h1 align="center">
   Quick front-end presentation of our project  
 </h1>
 
 <img align="center" src="FrontPitch.gif">
+
+</br>
 
 ## Functionalities
 
@@ -26,14 +32,34 @@
 
 </br>
 
-<p align="justify"> 
-  Color palette used in the project:
+
+## Justification
+
+  <p align="justify"> 
+  CLV Motors was founded to fill the gap in the automotive market, offering a platform that goes beyond simply buying and selling cars. Our goal is to provide a complete, comprehensive and customer-centric experience, promoting transparency, market growth, trust and continuous innovation. These fundamental pillars drive our mission to be the benchmark in the automotive world.
+  </p>
+
+</br>
+  
+## Objective
+
+  <p align="justify"> 
+  Our goal from day one has been to grow in the car sales market, offering more than just commercial transactions. We want to be a reference point, a community where enthusiasts and potential buyers can feel at home. Our site isn't just a place to buy and sell cars; it's an environment where passion for automobiles meets cutting-edge technology to provide an exceptional experience.
+</br> We want to be recognized as the number one choice for those looking not just for a vehicle, but for a complete experience in the automotive world.
 </p>
-//
+
+  <p align="justify"> 
+  Color palette used in the project:
+  </p>
+
 <img align="justify" width="500" src="CLVMotors_Paleta.png">
 
 ler e reproduzir aqui
 https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509
+
+<h4 align="justify"> 
+  🚧  Project 🚀 in progress...  🚧
+<h4></h4>
 
 ## License
 
