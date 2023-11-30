@@ -14,7 +14,7 @@
   Quick front-end presentation of our project  
 </h1>
 
-<img align="justify" src="CLVPitch.gif">
+<img align="justify" src="Video.mp4">
 
 ## Functionalities
 
