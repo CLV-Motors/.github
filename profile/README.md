@@ -10,6 +10,12 @@
   🚧  Project 🚀 in progress...  🚧
 <h4></h4>
 
+<h1 align="center">
+  Quick front-end presentation of our project  
+</h1>
+
+<img align="justify" src="CLVPitch.gif">
+
 ## Functionalities
 
 :heavy_check_mark: Sale and purchase of Cars;
