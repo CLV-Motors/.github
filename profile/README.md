@@ -48,6 +48,22 @@ This is a project where we are learning how use PHP language, however, we have b
 </br> We want to be recognized as the number one choice for those looking not just for a vehicle, but for a complete experience in the automotive world.
 </p>
 
+
+<h1 align="center">
+  Our identification logos
+</h1>
+
+| Fundo Branco | Fundo Azul | Fundo Amarelo |
+|:----------:|:---------:|:--------:|
+| ![LOGOFundoBranco](/LOGOFundoBranco.png) | ![example](/LOGOFundoAzul.png) | ![example](/LOGOFundoAmarelo.png) |
+
+<div aligh>
+  <img src="">
+  <img src="">
+  <img src="">
+</div>
+
+
   <p align="justify"> 
   Color palette used in the project:
   </p>
