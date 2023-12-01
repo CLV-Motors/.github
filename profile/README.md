@@ -62,7 +62,7 @@ This is a project where we are learning how use PHP language, however, we have b
   Our identification logos
 </h1>
 
-| Fundo Azul | Fundo Branco | Fundo Amarelo |
+| Bottom Blue | Bottom White | Bottom Yellow |
 |:----------:|:---------:|:--------:|
 | ![example](/LOGOFundoAzul.png) | ![LOGOFundoBranco](/LOGOFundoBranco.png) | ![example](/LOGOFundoAmarelo.png) |
 
