@@ -19,10 +19,7 @@ This is a project where we are learning how use PHP language, however, we have b
 </h1>
 
 <img align="center" src="FrontPitch.gif">
-
-</br>
-
-<img src="ClickHere2.gif">
+<img align="center" src="ClickHere2.gif">
 
 <p align="center"> 
   Link -> https://github.com/orgs/CLV-Motors/repositories
