@@ -63,7 +63,7 @@ This is a project where we are learning how use PHP language, however, we have b
   </p>
 
 <div align="center">
-<img width="500" src="CLVMotors_Paleta.png">
+<img width="500" src="CLVMotors_Paleta.png" link src="https://github.com/orgs/CLV-Motors/repositories">
 </div>
 
 ler e reproduzir aqui
