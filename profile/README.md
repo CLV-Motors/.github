@@ -7,12 +7,11 @@
    When we started this journey, we noticed a gap in the automotive sales market. There was a lack of platforms that offered a complete, intuitive and reliable experience for car lovers. So we decided to create something unique, something that didn't just sell vehicles, but was a space for car lovers to connect, explore and discover their next machine on wheels.
 </br>Our team is constantly working to improve the site's interface, making it more user-friendly and informative. We want our users to find not just a car, but all the information they need to make the best possible decision.
 </p>
+</br>
 
   <p align="center">
 This is a project where we are learning how use PHP language, however, we have built a site based on HTML and embellished it with CSS for a better user experience (UX).
   </p>
-
-  </br>
   
 <h1 align="center">
   Quick front-end presentation of our project  
