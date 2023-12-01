@@ -53,22 +53,18 @@ This is a project where we are learning how use PHP language, however, we have b
   Our identification logos
 </h1>
 
-| Fundo Branco | Fundo Azul | Fundo Amarelo |
+| Fundo Azul | Fundo Branco | Fundo Amarelo |
 |:----------:|:---------:|:--------:|
-| ![LOGOFundoBranco](/LOGOFundoBranco.png) | ![example](/LOGOFundoAzul.png) | ![example](/LOGOFundoAmarelo.png) |
-
-<div aligh>
-  <img src="">
-  <img src="">
-  <img src="">
-</div>
+| ![example](/LOGOFundoAzul.png) | ![LOGOFundoBranco](/LOGOFundoBranco.png) | ![example](/LOGOFundoAmarelo.png) |
 
 
-  <p align="justify"> 
+  <p align="center"> 
   Color palette used in the project:
   </p>
 
-<img align="justify" width="500" src="CLVMotors_Paleta.png">
+<div align="center">
+<img width="500" src="CLVMotors_Paleta.png">
+</div>
 
 ler e reproduzir aqui
 https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509
