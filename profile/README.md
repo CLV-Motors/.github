@@ -22,7 +22,7 @@ This is a project where we are learning how use PHP language, however, we have b
 
 </br>
 
-<img src="ClickHere.gif">
+<img src="ClickHere2.gif">
 
 <p align="center"> 
   Link -> https://github.com/orgs/CLV-Motors/repositories
