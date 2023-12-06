@@ -46,8 +46,6 @@ This is a project where we are learning how use PHP language, however, we have b
   <p align="justify"> 
   CLV Motors was founded to fill the gap in the automotive market, offering a platform that goes beyond simply buying and selling cars. Our goal is to provide a complete, comprehensive and customer-centric experience, promoting transparency, market growth, trust and continuous innovation. These fundamental pillars drive our mission to be the benchmark in the automotive world.
   </p>
-
-</br>
   
 ## Objective
 
@@ -56,6 +54,20 @@ This is a project where we are learning how use PHP language, however, we have b
 </br> We want to be recognized as the number one choice for those looking not just for a vehicle, but for a complete experience in the automotive world.
 </p>
 
+## Materials and Methods
+
+  <p align="justify"> 
+ Using HTML and CSS and PHP and SQL ligations...
+  </p>
+
+## Expected Results
+
+  <p align="justify"> 
+  We want to offer a wide range of vehicles, from the most iconic classics to the most innovative models, all with the guarantee of quality and transparency in every detail.
+  </br> We are committed to sustainable growth in the market, maintaining our position as a reliable reference for online car shopping and constantly improving the user experience. Innovation is our focus, always aiming to update our platform with cutting-edge technologies to anticipate customer needs. We want you to feel confident when making your choices, providing accurate and reliable information so that every purchase is a rewarding and safe experience.
+  </p>
+
+</br>
 
 <h1 align="center">
   Our identification logos
