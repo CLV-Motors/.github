@@ -1,4 +1,3 @@
-
 <h1 align="center">
   CLV Motors - New and used car sales website 🚗🏎️
 </h1>
@@ -78,9 +77,9 @@ This is a project where we are learning how use PHP language, however, we have b
 | ![example](/LOGOFundoAzul.png) | ![LOGOFundoBranco](/LOGOFundoBranco.png) | ![example](/LOGOFundoAmarelo.png) |
 
 
-  <p align="center"> 
+<p align="center"> 
   Color palette used in the project:
-  </p>
+</p>
 
 <div align="center">
 <img width="500" src="CLVMotors_Paleta.png" link src="https://github.com/orgs/CLV-Motors/repositories">
@@ -95,13 +94,6 @@ This is a project where we are learning how use PHP language, however, we have b
 [<img src="cd.png" width=200 > <br> <sub> Cauã Dellon </sub>](https://github.com/0449) | [<img src="la.png" width=200 > <br> <sub> Leonardo Amad </sub>](https://github.com/LeonardoAmad) | [<img src="vm.png" width=200 > <br> <sub> Vinícius Melesque </sub>](https://github.com/vinimelesque) |
 | :---: | :---: | :---: |
 </div>
-
-ler e reproduzir aqui
-https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509
-
-<h4 align="justify"> 
-  🚧  Project 🚀 in progress...  🚧
-<h4></h4>
 
 ## License
 
