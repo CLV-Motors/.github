@@ -23,22 +23,23 @@ This is a project where we are learning how use PHP language, however, we have b
   Link -> https://github.com/orgs/CLV-Motors/repositories
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⬆️+⬆️+⬆️+⬆️;+⬆️+⬆️+⬆️+⬆️;" />
-</h1>
-
-</br>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⬆️+⬆️+⬆️+⬆️;+⬆️+⬆️+⬆️+⬆️;"/>
+</p>
 
 ## Functionalities
+
+:heavy_check_mark: User Registration and Login;
 
 :heavy_check_mark: Sale and purchase of Cars;
 
 :heavy_check_mark: Information about various vehicles;
 
+:heavy_check_mark: Vehicle Details Pages
+
 :heavy_check_mark: Comparison between vehicles.
 
 </br>
-
 
 ## Justification
 
