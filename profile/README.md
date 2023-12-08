@@ -9,7 +9,7 @@
 </br>
 
   <p align="center">
-This is a project where we are learning how use PHP language, however, we have built a site based on HTML and embellished it with CSS for a better user experience (UX).
+This is a project where we are learning how use PHP language, however, we have built a site based on HTML and embellished it with JavaScript, CSS for a better user experience (UX).
   </p>
   
 <h1 align="center">
