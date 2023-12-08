@@ -29,8 +29,6 @@ This is a project where we are learning how use PHP language, however, we have b
 
 ## Functionalities
 
-:heavy_check_mark: User Registration and Login;
-
 :heavy_check_mark: Sale and purchase of Cars;
 
 :heavy_check_mark: Information about various vehicles;
