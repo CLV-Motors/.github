@@ -55,7 +55,8 @@ This is a project where we are learning how use PHP language, however, we have b
 ## Materials and Methods
 
   <p align="justify"> 
- Using HTML and CSS and PHP and SQL ligations...
+    The car sales website was developed using a combination of technologies to ensure an efficient and attractive user experience. In the front-end layer, languages such as HTML were used to create the fundamental structure of the site, CSS for styling and design to ensure an attractive visual presentation and JavaScript to make the platform interactive and dynamic.
+    </br> On the back-end, the site was programmed with PHP, enabling an efficient connection to the database and the execution of the CRUD method (Create, Read, Update, Delete). This structure enables operations such as creating, reading, updating and deleting data in the database, making car sales functionalities possible.
   </p>
 
 ## Expected Results
